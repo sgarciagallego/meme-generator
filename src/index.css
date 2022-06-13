@@ -71,3 +71,10 @@ main {
   font-size: 1.1em;
   font-weight: medium;
 }
+
+/* image */
+
+#meme--img {
+  width: 100%;
+  border-radius: 15px;
+}
